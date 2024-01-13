@@ -65,6 +65,7 @@ public class RockPaperScissor {
 				break;
 
 			}
+			
 			if (playAgain.equals("no") || playAgain.equals("No"))
 				break;
 
